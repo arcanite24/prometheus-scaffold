@@ -1,0 +1,22 @@
+{
+  "name": "prometheus-scaffold",
+  "version": "0.0.1",
+  "description": "Prometheus Application initial scaffold",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcanite24/prometheus-scaffold.git"
+  },
+  "author": "EpsiDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arcanite24/prometheus-scaffold/issues"
+  },
+  "homepage": "https://github.com/arcanite24/prometheus-scaffold#readme",
+  "dependencies": {
+    "@epsidev/prometheus": "0.0.1"
+  }
+}
