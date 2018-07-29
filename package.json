@@ -4,7 +4,8 @@
   "description": "Prometheus Application initial scaffold",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/arcanite24/prometheus-scaffold#readme",
   "dependencies": {
-    "@epsidev/prometheus": "0.0.1"
+    "dotenv": "^6.0.0"
   }
 }

@@ -4,6 +4,7 @@ module.exports = {
   address: 'localhost',
   urlBase: '/api/v1',
 
-  version: '0.0.1'
+  version: '0.0.1',
+  debug: false
 
 }
